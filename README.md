@@ -68,16 +68,16 @@ A seamless, end-to-end mobile ecosystem for tracking and managing fitness infras
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=IT24101093&show_icons=true&theme=tokyonight&v=1" alt="GitHub Stats" height="195" />
+      <img src="https://github-readme-stats.vercel.app/api?username=IT24101093&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="195" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=IT24101093&theme=tokyonight&v=1" alt="GitHub Streak" height="195" />
+      <img src="https://streak-stats.demolab.com/?user=IT24101093&theme=tokyonight" alt="GitHub Streak" height="195" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24101093&layout=compact&theme=tokyonight&v=1" alt="Top Langs" height="195" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24101093&layout=compact&theme=tokyonight" alt="Top Langs" height="195" />
     </td>
   </tr>
 </table>
