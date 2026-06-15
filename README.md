@@ -1,108 +1,167 @@
-<h1 align="center">Hi there, I'm [Your Name]! 👋</h1>
+# 👋 Hi there, I'm [Your Name]!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=Cloud+Computing+%7C+AI+%7C+DevOps;Full-Stack+Developer;Mobile+App+Developer" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+### 🌟 Cloud Computing • AI • DevOps • Full-Stack • Mobile
 
----
+![Modern Gradient Banner](https://readmeforge.natrajx.in/api/banner?text=Cloud+Computing+%7C+AI+%7C+DevOps&subtext=Full-Stack+%26+Mobile+App+Developer&visualStyle=aurora&colors=%2300D2FF,%239B59B6,%2300D2FF&angle=45)
 
-### 🚀 About Me
-
-I am an ambitious student developer passionately exploring the intersection of **Cloud Infrastructure, Artificial Intelligence, and DevOps**. I thrive on building highly scalable full-stack applications, designing custom intelligent automation, and optimizing development pipelines.
-
-*   🔭 **Current Focus:** Enhancing computer vision architectures and intelligent algorithmic pricing models.
-*   🌱 **Learning Journey:** Continuously advancing my skills in automated cloud security and continuous delivery architectures.
-*   💬 **Let's Talk Tech:** Ask me about the **MERN Stack, React Native, or tying FastAPI to TensorFlow frameworks**.
+</div>
 
 ---
 
-### 🏅 Certifications & Badges
+## 🚀 About Me
 
-#### ☁️ Cloud & DevOps Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-Technical_Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Technical Essentials" />
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner Essentials" />
-  <img src="https://img.shields.io/badge/AWS_Educate-Security_Basics-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Security" />
-  <img src="https://img.shields.io/badge/AWS_Educate-Cloud_101-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud 101" />
-  <img src="https://img.shields.io/badge/Microsoft-DevOps_Foundations-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="DevOps Foundations" />
-</p>
+I'm a **student developer** passionate about building smart, scalable applications that merge **robust full-stack engineering** with **modern cloud infrastructure** and **machine learning**.
 
-#### 🧠 Artificial Intelligence & GenAI
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-AI_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner" />
-  <img src="https://img.shields.io/badge/AWS-Amazon_Q_Fundamentals-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Q Developer" />
-  <img src="https://img.shields.io/badge/AWS_Educate-ML_Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML Foundations" />
-  <img src="https://img.shields.io/badge/Microsoft-Leveraging_AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Leveraging AI" />
-</p>
+<div align="center">
 
----
+<table>
+<tr>
+<td align="center">
+🔭 <b>Currently</b>
+<br>
+<small>Refining computer vision & dynamic pricing algorithms</small>
+</td>
+<td align="center">
+🌱 <b>Deep-diving</b>
+<br>
+<small>Cloud security & continuous delivery automation</small>
+</td>
+<td align="center">
+💬 <b>Ask me about</b>
+<br>
+<small>MERN Stack • React Native • FastAPI + TensorFlow</small>
+</td>
+</tr>
+</table>
 
-### 🛠️ Tech Stack & Ecosystem
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <br />
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <br />
-  <!-- AI & DB -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat&logo=microsoft-sql-server&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 💻 Featured Engineering Projects
+## ☁️ Cloud & DevOps Certifications
 
-<blockquote>
-  <h3>💎 1. Online Gem Buy & Sell System (Web)</h3>
-  <p>An intelligent web ecosystem engineered to fully automate, validate, and optimize gemstone global trading.</p>
-  <ul>
-    <li><strong>Core Tech Stack:</strong> Java, FastAPI, TensorFlow, MobileNetV2</li>
-    <li><strong>AI Verification:</strong> Integrated a high-performance computer vision model trained to evaluate visual data metrics and accurately predict gemstone authenticity (real vs. fake).</li>
-    <li><strong>Smart Cut Recommendation:</strong> Formulated an intelligent rule-engine checking gemstone dimensions to explicitly recommend the most value-maximizing cut styles.</li>
-    <li><strong>Automated Valuation:</strong> Implemented core mathematical algorithms in Java to dynamically generate real-time weight approximations and price valuations utilizing length, width, and height inputs.</li>
-  </ul>
-</blockquote>
+<div align="left">
 
-<blockquote>
-  <h3>🏋️ 2. WMT Gym Management System (Mobile)</h3>
-  <p>A seamless, end-to-end mobile application architected for running modern fitness ecosystem infrastructures.</p>
-  <ul>
-    <li><strong>Core Tech Stack:</strong> React Native, MongoDB, Express, React, Node.js (MERN)</li>
-    <li><strong>Key Components:</strong> Formulated cross-platform metrics logging for user performance, robust administrative dashboards, and highly optimized database relations for high backend responsiveness.</li>
-  </ul>
-</blockquote>
+![AWS Technical Essentials](https://img.shields.io/badge/AWS-Technical_Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Security](https://img.shields.io/badge/AWS_Educate-Getting_Started_with_Security-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Cloud 101](https://img.shields.io/badge/AWS_Educate-Introduction_to_Cloud_101-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft DevOps](https://img.shields.io/badge/Microsoft-DevOps_Foundations-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+</div>
 
 ---
 
-### 📊 Coding Activity & Ecosystem Stats
+## 🧠 AI & GenAI Certifications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dracula" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dracula" alt="GitHub Streak" width="48%" />
-</p>
+<div align="left">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dracula" alt="Top Langs" width="50%" />
-</p>
+![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner_Learning_Plan-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Q Developer](https://img.shields.io/badge/AWS-Amazon_Q_Developer_Fundamentals-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS ML Foundations](https://img.shields.io/badge/AWS_Educate-Machine_Learning_Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Microsoft AI](https://img.shields.io/badge/Microsoft-Leveraging_AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=dracula&column=7" alt="GitHub Trophies" />
-</p>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="left">
+
+### 💻 Languages
+
+<div style="display: flex; gap: 4px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/python" width="50px" />
+<img src="https://iconic-api.onrender.com/dark/java" width="50px" />
+<img src="https://iconic-api.onrender.com/dark/js" width="50px" />
+<img src="https://iconic-api.onrender.com/dark/html" width="50px" />
+<img src="https://iconic-api.onrender.com/dark/css" width="50px" />
+</div>
+
+### 🎨 Frameworks & Libraries
+
+<div style="display: flex; gap: 4px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/react" width="50px" />
+<img src="https://iconic-api.onrender.com/dark/expo" width="50px" />
+<img src="https://iconic-api.onrender.com/dark/node" width="50px" />
+<img src="https://iconic-api.onrender.com/dark/express" width="50px" />
+<img src="https://iconic-api.onrender.com/dark/fastapi" width="50px" />
+</div>
+
+### 🤖 AI / Machine Learning
+
+<div style="display: flex; gap: 4px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/tensorflow" width="50px" />
+</div>
+
+### 🗄️ Databases
+
+<div style="display: flex; gap: 4px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/mongo" width="50px" />
+<img src="https://iconic-api.onrender.com/dark/mysql" width="50px" />
+<img src="https://iconic-api.onrender.com/dark/sql" width="50px" />
+</div>
+
+</div>
+
+---
+
+## 💎 Featured Projects
+
+### 💎 1. Online Gem Buy & Sell System
+
+**Intelligent web platform for automated gemstone trading**
+
+![Glass Card](https://readmeforge.natrajx.in/api/card-glass?title=Tech+Stack&value=Java+•+FastAPI+•+TensorFlow&glassTheme=tokyo)
+
+**✨ Key Features:**
+- **AI Verification:** Computer vision model (MobileNetV2) predicts gemstone authenticity
+- **Smart Cut Recommendation:** Rule engine analyzes dimensions for value-maximizing cuts
+- **Automated Valuation:** Dynamic weight calculation with real-time price valuations
+
+---
+
+### 🏋️ 2. WMT Gym Management System
+
+**End-to-end mobile ecosystem for fitness infrastructure management**
+
+![Glass Card](https://readmeforge.natrajx.in/api/card-glass?title=Tech+Stack&value=MERN+•+React+Native&glassTheme=tokyo)
+
+**✨ Key Features:**
+- Cross-platform performance metric tracking
+- Administrative panels with streamlined schema design
+- Seamless backend integration
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&bg_color=30,1a1a2e,16213e&title_color=00D2FF&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&bg_color=30,1a1a2e,16213e&title_color=00D2FF&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&bg_color=30,1a1a2e,16213e&title_color=00D2FF&text_color=ffffff)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+
+</div>
+
+<div align="center">
+
+### ✨ Let's build something amazing together!
+
+</div>
