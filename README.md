@@ -5,21 +5,33 @@
 </p>
 
 ### 🚀 About Me
-I am a student developer deeply passionate about **Cloud Computing, Artificial Intelligence, and DevOps**. I love building intelligent, scalable applications that combine robust full-stack development with modern AI capabilities.
+I am a student developer deeply passionate about **Cloud Computing, Artificial Intelligence, and DevOps**. I focus on building smart, scalable applications that combine robust full-stack engineering with modern cloud infrastructure and machine learning capabilities.
 
-- 🔭 I’m currently working on enhancing my AI image recognition models.
-- 🌱 I’m deeply diving into **DevOps pipelines and Cloud Infrastructure (AWS)**.
-- 💬 Ask me about **MERN Stack, React Native, or integrating FastAPI with Machine Learning**.
+- 🔭 I’m currently refining my computer vision and dynamic pricing algorithms.
+- 🌱 I’m continuously deep-diving into cloud security and continuous delivery automation.
+- 💬 Ask me about **MERN Stack, React Native, or integrating FastAPI with TensorFlow**.
 - ✉️ How to reach me: **[Your Email Here]**
 
 ---
 
-### 🏅 Certifications
+### 🏅 Certifications & Badges
+
+#### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect" />
+  <img src="https://img.shields.io/badge/AWS-Technical_Essentials-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Technical Essentials" />
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner Essentials" />
+  <img src="https://img.shields.io/badge/AWS_Educate-Getting_Started_with_Security-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Security" />
+  <img src="https://img.shields.io/badge/AWS_Educate-Introduction_to_Cloud_101-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud 101" />
+  <img src="https://img.shields.io/badge/Microsoft-DevOps_Foundations-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="DevOps Foundations" />
 </p>
-*(Note: You can delete or add to these badges based on your exact AWS certifications!)*
+
+#### 🧠 Artificial Intelligence & GenAI
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-AI_Practitioner_Learning_Plan-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner" />
+  <img src="https://img.shields.io/badge/AWS-Amazon_Q_Developer_Fundamentals-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon Q Developer" />
+  <img src="https://img.shields.io/badge/AWS_Educate-Machine_Learning_Foundations-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS ML Foundations" />
+  <img src="https://img.shields.io/badge/Microsoft-Leveraging_AI-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Leveraging AI" />
+</p>
 
 ---
 
@@ -37,16 +49,17 @@ I am a student developer deeply passionate about **Cloud Computing, Artificial I
 ### 💻 Featured Projects
 
 #### 💎 1. Online Gem Buy & Sell System (Web)
-An intelligent web application designed to automate, validate, and optimize gemstone trading.
+An intelligent web platform designed to automate, validate, and optimize gemstone trading.
 * **Core Tech:** Java, FastAPI, TensorFlow, MobileNetV2
-* **Key Features:** * **AI Verification:** Features a computer vision model trained to process visual gemstone data and predict authenticity (real vs. fake).
-  * **Smart Cut Recommendation:** Implements logic that analyzes the raw stone dimensions to recommend the most optimal and value-maximizing gem cut.
-  * **Automated Valuation:** Uses precise mathematical algorithms in Java to calculate the exact estimated weight (based on length, width, and height) and dynamically calculate the gemstone's market price.
+* **Key Features:** 
+  * **AI Verification:** Implements a computer vision model to process visual gemstone data and accurately predict authenticity (real vs. fake).
+  * **Smart Cut Recommendation:** Features a rule engine analyzing raw stone dimensions to recommend the value-maximizing gem cut.
+  * **Automated Valuation:** Uses precise mathematical logic in Java to calculate estimated weights dynamically using length, width, and height metrics alongside real-time price valuations.
 
 #### 🏋️ 2. WMT Gym Management System (Mobile)
-A seamless, end-to-end mobile application for tracking and managing gym ecosystems.
+A seamless, end-to-end mobile ecosystem for tracking and managing fitness infrastructures.
 * **Core Tech:** MERN Stack (MongoDB, Express, React, Node.js), React Native
-* **Key Features:** Cross-platform user performance metrics, clean UI, and streamlined database architectures for backend administration.
+* **Key Features:** Cross-platform tracking for user performance metrics, administrative panels, and streamlined schema design for backend systems.
 
 ---
 
