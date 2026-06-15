@@ -76,6 +76,6 @@ A seamless, end-to-end mobile ecosystem for tracking and managing fitness infras
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/yasasvi-chathurya-155249348" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  a href="mailto:yasasvic@proton.me" target="blank"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=proton&logoColor=white" alt="ProtonMail" /></a>
+  <a href="mailto:yasasvic@proton.me" target="blank"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=proton&logoColor=white" alt="ProtonMail" /></a>
 </p>
 </p>
