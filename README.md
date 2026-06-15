@@ -73,37 +73,29 @@ I'm a **student developer** passionate about building smart, scalable applicatio
 
 ### 💻 Languages
 
-<div style="display: flex; gap: 4px; align-items: center;">
-<img src="https://iconic-api.onrender.com/dark/python" width="50px" />
-<img src="https://iconic-api.onrender.com/dark/java" width="50px" />
-<img src="https://iconic-api.onrender.com/dark/js" width="50px" />
-<img src="https://iconic-api.onrender.com/dark/html" width="50px" />
-<img src="https://iconic-api.onrender.com/dark/css" width="50px" />
-</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎨 Frameworks & Libraries
 
-<div style="display: flex; gap: 4px; align-items: center;">
-<img src="https://iconic-api.onrender.com/dark/react" width="50px" />
-<img src="https://iconic-api.onrender.com/dark/expo" width="50px" />
-<img src="https://iconic-api.onrender.com/dark/node" width="50px" />
-<img src="https://iconic-api.onrender.com/dark/express" width="50px" />
-<img src="https://iconic-api.onrender.com/dark/fastapi" width="50px" />
-</div>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 
 ### 🤖 AI / Machine Learning
 
-<div style="display: flex; gap: 4px; align-items: center;">
-<img src="https://iconic-api.onrender.com/dark/tensorflow" width="50px" />
-</div>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ### 🗄️ Databases
 
-<div style="display: flex; gap: 4px; align-items: center;">
-<img src="https://iconic-api.onrender.com/dark/mongo" width="50px" />
-<img src="https://iconic-api.onrender.com/dark/mysql" width="50px" />
-<img src="https://iconic-api.onrender.com/dark/sql" width="50px" />
-</div>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 </div>
 
@@ -115,7 +107,7 @@ I'm a **student developer** passionate about building smart, scalable applicatio
 
 **Intelligent web platform for automated gemstone trading**
 
-![Glass Card](https://readmeforge.natrajx.in/api/card-glass?title=Tech+Stack&value=Java+•+FastAPI+•+TensorFlow&glassTheme=tokyo)
+![Tech Stack](https://readmeforge.natrajx.in/api/card-glass?title=Tech+Stack&value=Java+•+FastAPI+•+TensorFlow&glassTheme=tokyo)
 
 **✨ Key Features:**
 - **AI Verification:** Computer vision model (MobileNetV2) predicts gemstone authenticity
@@ -128,7 +120,7 @@ I'm a **student developer** passionate about building smart, scalable applicatio
 
 **End-to-end mobile ecosystem for fitness infrastructure management**
 
-![Glass Card](https://readmeforge.natrajx.in/api/card-glass?title=Tech+Stack&value=MERN+•+React+Native&glassTheme=tokyo)
+![Tech Stack](https://readmeforge.natrajx.in/api/card-glass?title=Tech+Stack&value=MERN+•+React+Native&glassTheme=tokyo)
 
 **✨ Key Features:**
 - Cross-platform performance metric tracking
