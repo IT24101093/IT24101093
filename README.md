@@ -1,83 +1,108 @@
-# Hi there, I'm [Your Name]! 👋
+<h1 align="center">Hi there, I'm [Your Name]! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Cloud+Computing+%7C+AI+%7C+DevOps;Full-Stack+Developer;Mobile+App+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=Cloud+Computing+%7C+AI+%7C+DevOps;Full-Stack+Developer;Mobile+App+Developer" alt="Typing SVG" />
 </p>
 
-### 🚀 About Me
-I am a student developer deeply passionate about **Cloud Computing, Artificial Intelligence, and DevOps**. I focus on building smart, scalable applications that combine robust full-stack engineering with modern cloud infrastructure and machine learning capabilities.
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-- 🔭 I’m currently refining my computer vision and dynamic pricing algorithms.
-- 🌱 I’m continuously deep-diving into cloud security and continuous delivery automation.
-- 💬 Ask me about **MERN Stack, React Native, or integrating FastAPI with TensorFlow**.
-- ✉️ How to reach me: **[Your Email Here]**
+---
+
+### 🚀 About Me
+
+I am an ambitious student developer passionately exploring the intersection of **Cloud Infrastructure, Artificial Intelligence, and DevOps**. I thrive on building highly scalable full-stack applications, designing custom intelligent automation, and optimizing development pipelines.
+
+*   🔭 **Current Focus:** Enhancing computer vision architectures and intelligent algorithmic pricing models.
+*   🌱 **Learning Journey:** Continuously advancing my skills in automated cloud security and continuous delivery architectures.
+*   💬 **Let's Talk Tech:** Ask me about the **MERN Stack, React Native, or tying FastAPI to TensorFlow frameworks**.
 
 ---
 
 ### 🏅 Certifications & Badges
 
-#### ☁️ Cloud & DevOps
+#### ☁️ Cloud & DevOps Infrastructure
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-Technical_Essentials-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Technical Essentials" />
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner Essentials" />
-  <img src="https://img.shields.io/badge/AWS_Educate-Getting_Started_with_Security-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Security" />
-  <img src="https://img.shields.io/badge/AWS_Educate-Introduction_to_Cloud_101-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud 101" />
-  <img src="https://img.shields.io/badge/Microsoft-DevOps_Foundations-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="DevOps Foundations" />
+  <img src="https://img.shields.io/badge/AWS-Technical_Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Technical Essentials" />
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner Essentials" />
+  <img src="https://img.shields.io/badge/AWS_Educate-Security_Basics-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Security" />
+  <img src="https://img.shields.io/badge/AWS_Educate-Cloud_101-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud 101" />
+  <img src="https://img.shields.io/badge/Microsoft-DevOps_Foundations-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="DevOps Foundations" />
 </p>
 
 #### 🧠 Artificial Intelligence & GenAI
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-AI_Practitioner_Learning_Plan-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner" />
-  <img src="https://img.shields.io/badge/AWS-Amazon_Q_Developer_Fundamentals-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon Q Developer" />
-  <img src="https://img.shields.io/badge/AWS_Educate-Machine_Learning_Foundations-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS ML Foundations" />
-  <img src="https://img.shields.io/badge/Microsoft-Leveraging_AI-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Leveraging AI" />
+  <img src="https://img.shields.io/badge/AWS-AI_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner" />
+  <img src="https://img.shields.io/badge/AWS-Amazon_Q_Fundamentals-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Q Developer" />
+  <img src="https://img.shields.io/badge/AWS_Educate-ML_Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML Foundations" />
+  <img src="https://img.shields.io/badge/Microsoft-Leveraging_AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Leveraging AI" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Ecosystem
 
-| Category | Technologies |
-| --- | --- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| **Frameworks & Libs** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white) |
-| **AI / Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
-
----
-
-### 💻 Featured Projects
-
-#### 💎 1. Online Gem Buy & Sell System (Web)
-An intelligent web platform designed to automate, validate, and optimize gemstone trading.
-* **Core Tech:** Java, FastAPI, TensorFlow, MobileNetV2
-* **Key Features:** 
-  * **AI Verification:** Implements a computer vision model to process visual gemstone data and accurately predict authenticity (real vs. fake).
-  * **Smart Cut Recommendation:** Features a rule engine analyzing raw stone dimensions to recommend the value-maximizing gem cut.
-  * **Automated Valuation:** Uses precise mathematical logic in Java to calculate estimated weights dynamically using length, width, and height metrics alongside real-time price valuations.
-
-#### 🏋️ 2. WMT Gym Management System (Mobile)
-A seamless, end-to-end mobile ecosystem for tracking and managing fitness infrastructures.
-* **Core Tech:** MERN Stack (MongoDB, Express, React, Node.js), React Native
-* **Key Features:** Cross-platform tracking for user performance metrics, administrative panels, and streamlined schema design for backend systems.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" width="50%" />
-</p>
-
----
-
-### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <br />
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <br />
+  <!-- AI & DB -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat&logo=microsoft-sql-server&logoColor=white" />
+</p>
+
+---
+
+### 💻 Featured Engineering Projects
+
+<blockquote>
+  <h3>💎 1. Online Gem Buy & Sell System (Web)</h3>
+  <p>An intelligent web ecosystem engineered to fully automate, validate, and optimize gemstone global trading.</p>
+  <ul>
+    <li><strong>Core Tech Stack:</strong> Java, FastAPI, TensorFlow, MobileNetV2</li>
+    <li><strong>AI Verification:</strong> Integrated a high-performance computer vision model trained to evaluate visual data metrics and accurately predict gemstone authenticity (real vs. fake).</li>
+    <li><strong>Smart Cut Recommendation:</strong> Formulated an intelligent rule-engine checking gemstone dimensions to explicitly recommend the most value-maximizing cut styles.</li>
+    <li><strong>Automated Valuation:</strong> Implemented core mathematical algorithms in Java to dynamically generate real-time weight approximations and price valuations utilizing length, width, and height inputs.</li>
+  </ul>
+</blockquote>
+
+<blockquote>
+  <h3>🏋️ 2. WMT Gym Management System (Mobile)</h3>
+  <p>A seamless, end-to-end mobile application architected for running modern fitness ecosystem infrastructures.</p>
+  <ul>
+    <li><strong>Core Tech Stack:</strong> React Native, MongoDB, Express, React, Node.js (MERN)</li>
+    <li><strong>Key Components:</strong> Formulated cross-platform metrics logging for user performance, robust administrative dashboards, and highly optimized database relations for high backend responsiveness.</li>
+  </ul>
+</blockquote>
+
+---
+
+### 📊 Coding Activity & Ecosystem Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dracula" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dracula" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dracula" alt="Top Langs" width="50%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=dracula&column=7" alt="GitHub Trophies" />
 </p>
