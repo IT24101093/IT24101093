@@ -10,7 +10,7 @@ I am a student developer deeply passionate about **Cloud Computing, Artificial I
 - 🔭 I’m currently refining my computer vision and dynamic pricing algorithms.
 - 🌱 I’m continuously deep-diving into cloud security and continuous delivery automation.
 - 💬 Ask me about **MERN Stack, React Native, or integrating FastAPI with TensorFlow**.
-- ✉️ How to reach me: **[Your Email Here]**
+
 
 ---
 
